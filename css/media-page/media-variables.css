@@ -1,0 +1,21 @@
+:root{
+    --heroBackground:#EFF7F2;
+    --pSize:15px;
+    --pColor:#525560;
+    --h1Size:55px;
+    --h1Color:black;
+    --h3Size:15px;
+    --h3Color:black;
+    --greenSecondaryColor:#BEF3C0;
+    --primaryColor:#70C174;
+    --secondaryColor:white;
+    --thirdColor:black;
+    --textColor:#525560;
+    --primary-color: #70C174;
+    --secondary-color: #BEF3C0;
+    --primary-text: #1D2130;
+    --secondary-text: #525560;
+    --hover-color: skyblue;
+    --background-color: #fff;
+    --color-white: #fff;
+}
